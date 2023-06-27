@@ -21,4 +21,4 @@ Add any other information or screenshots about the feature request here.
 
 **Checklist**
 Mark the following box with an 'x' to confirm you are ready to post this feature request.
-[ ] I have searched through the existing issues to make sure this feature request doesn't already exist
+- [ ] I have searched through the existing issues to make sure this feature request doesn't already exist

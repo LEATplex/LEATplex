@@ -26,4 +26,4 @@ Add any other information about the problem here (e.g. what device are you using
 
 **Checklist**
 Mark the following box with an 'x' to confirm you are ready to post this bug report.
-[ ] I have searched through the existing issues to make sure this bug report doesn't already exist
+- [ ] I have searched through the existing issues to make sure this bug report doesn't already exist
