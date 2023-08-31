@@ -21,6 +21,10 @@ What should be happening?
 **Screenshots**
 If possible, add screenshots to help explain your problem.
 
+**Bug dump**
+If possible, run `/bugdump` on the LEATplex Minecraft server **when this bug occurs**, then put your bug dump number here.
+`#XXX`
+
 **Minecraft Version (please complete the following information):**
  - OS(es): [e.g. iOS / Android / Windows 10 / Linux]
  - Edition(s): [e.g. Java Edition 1.20.1 or Bedrock Edition 1.20.0]
